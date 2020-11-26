@@ -1,0 +1,54 @@
+How did viewing a diff between two versions of a file helpyou see the bug that was introduced?
+
+-    if (KEY_STATUS.up) {
++    if (KEY_STATUS.spacr)
+At first I overlooked this minor typo, but after that it was pretty obvious.
+Listening to the question asked carefully is also important since Caroline said to use the right way of writing in stead of the typo in the answer.
+Indeed working with the command line was like 25 years ago for me and gave me some trouble, but I managed!
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+In having access to a previous version you keep also access to other peaces of code which , 
+although not useful in your current application, can be useful in future (completely) other applications.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+pros : as a programmer you have usually yourself the best idea when to save. Also maybe you know that other people are working on the same project.
+cons : maybe you forget in time to make a commit.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+multiple files in one commit is useful for connected files. like css and html files. 
+I have no idea why google docs treat files separately...unless it is the case that Sarah's
+explanation about photosho etc. shows that more nonprogramming uses are at this google
+thing. So for photo things you dont need multiple files in one commit.
+
+How can you use the commands git log and git diff to view the history of files?
+
+with git log you can list up the whole history of changes/updates to a file. After that with 
+git diff you can compare two files together. in cases of an appearing bug it is more easy to find
+it.
+So in practice. after "git clone url.git"  
+$ cd version-control/asteroids
+$ git log
+
+Then 
+$ git diff   commit_1 commit_2 gives the dfference between the older file (commit_1) and the
+ more new (commit_2)
+
+BIG MISTAKE WAS BECAUSE OF IN THE LOG THE OLDER FILE SHOWS BELOW THE NEWER!
+
+How might using version control make you more confident to make changes that
+could break something?
+
+Pretty obvious. to get back so easy to a previous version gives a lot of room for
+experimenting. Pretty Cool!
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I am building a website and I need something like this since I had many issues with bugs
+and changed a lot of things which made a mess and took me hours to find back the way it
+was.
