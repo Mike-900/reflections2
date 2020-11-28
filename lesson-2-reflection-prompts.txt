@@ -21,10 +21,10 @@ What value do you think it offers?
 it 's some prestate before a commit. In the working directory there are more other files
 (possibly). The repository is still empty and waits for the final commit.
 
-How can you use the staging area to make sure you have one commit per logical
+C How can you use the staging area to make sure you have one commit per logical
 change
 
-with git diff you can see the diffrences between the staging are and the working directory.
+with git diff you can see the differences between the staging area and the working directory.
 wit git --staged you can compare the most recent commit with what you are about to commit.
 after you checked it you can see if it is one logical change, not too much changes or
 at least an important change.
