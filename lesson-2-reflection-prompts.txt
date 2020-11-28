@@ -29,7 +29,7 @@ wit git --staged you can compare the most recent commit with what you are about 
 after you checked it you can see if it is one logical change, not too much changes or
 at least an important change.
 
-What are some situations when branches would be helpful in keeping your history
+D What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
 when you change the code with some experimentation
