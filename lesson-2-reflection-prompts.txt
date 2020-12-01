@@ -32,9 +32,8 @@ at least an important change.
 D What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-when you change the code with some experimentation
-
-
+when you change the code with some experimentation , during that experimentation you have 
+a working version in the masterbranch.
 or maybe anouther language version .
 
 How do the diagrams help you visualize the branch structure?
