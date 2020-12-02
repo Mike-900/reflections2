@@ -36,7 +36,7 @@ when you change the code with some experimentation , during that experimentation
 a working version in the masterbranch.
 or maybe anouther language version .
 
-How do the diagrams help you visualize the branch structure?
+E How do the diagrams help you visualize the branch structure?
 
 it is made clear from where the branches divert from the master.
 
