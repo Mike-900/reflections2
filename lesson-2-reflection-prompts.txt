@@ -40,12 +40,12 @@ E How do the diagrams help you visualize the branch structure?
 
 it is made clear from where the branches divert from the master.
 
-What is the result of merging two branches together why do we represent it in the diagram
+F What is the result of merging two branches together why do we represent it in the diagram
 the way we do?
 
 different works of code get together and we represent it to see where the
 different workers of code  diverged.
 
-What are the pros and cons of Gits automatic merging vs. always doing merges
+G What are the pros and cons of Gits automatic merging vs. always doing merges
 manually?
 pros it saves a lot of work, cons it might still be possible to miss something.
