@@ -1,1 +1,6 @@
+A When would you want to use a remote repository rather than keeping all your work
+local?
+
+First of all it is reachable by collegues, reachable from other locations, and it is still there
+when your pc breaks down
 
