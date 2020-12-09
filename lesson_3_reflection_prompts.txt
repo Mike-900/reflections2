@@ -10,3 +10,12 @@ automatically stay up-to-date with your remote repository?
 so you can first check what happened and check if it is a useful change.
 maybe some badass put a virus even in place of your program.
 
+C Describe the differences between forks, clones, and branches.  When would you
+use one instead of another?
+
+a fork is your own clone like verson on github of someone elses repo where you
+can work on without changing the code of the original writer.
+a clone is when you put an exact copy from a code from the web on your 
+own computer. I guess  you can clone from your own pc towards your own pc too. 
+a branch is another deversion from the master just to experiment
+
