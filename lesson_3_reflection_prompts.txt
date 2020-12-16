@@ -24,3 +24,8 @@ stored locally?
 
 You can work on it offline and you can more easy write code then directly in github i guess
 
+E What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+You can work on it offline being up to date
+
